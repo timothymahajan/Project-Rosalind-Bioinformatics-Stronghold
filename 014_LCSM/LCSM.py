@@ -1,4 +1,4 @@
-#Finding a Shared Motif
+#Problem 14: Finding a Shared Motif
 #Given: A collection of kk (k≤100k≤100) DNA strings of length at most 1 kbp each in FASTA format.
 #Return: A longest common substring of the collection. (If multiple solutions exist, you may return any single solution.)
 
