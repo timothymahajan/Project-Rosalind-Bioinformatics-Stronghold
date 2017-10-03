@@ -1,4 +1,4 @@
-#Problem 11: Calculating Protein Mass
+#Problem 20: Calculating Protein Mass
 #Given: A protein string PP of length at most 1000 aa.
 #Return: The total weight of PP.
 
