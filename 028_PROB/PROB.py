@@ -23,4 +23,3 @@ result = ' '.join(map(str, RandomString('TGCTTGTTGTGTACTCGGCGGAATGACTTGTACGCCCCG
 f = open('PROB.txt', 'w')
 f.write(result)  
 f.close() 
-
