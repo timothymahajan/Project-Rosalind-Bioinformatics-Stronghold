@@ -1,3 +1,4 @@
+--Problem 20- Calculating Protein Mass
 --Given: A protein string PP of length at most 1000 amino acids.
 --Return: The total weight of PP. Consult the monoisotopic mass table.
 
