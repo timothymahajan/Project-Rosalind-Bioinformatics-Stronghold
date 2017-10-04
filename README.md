@@ -1,6 +1,8 @@
 # Project-Rosalind
 In this repo I am including the queries I have used to solve problems taken from Project Rosalind (no copyright infringement intended). All solutions are coded with SQL unless otherwise specified.
-![Pic](https://i.imgur.com/Bv2Tkfi.png)
+<br>
+<img height = "200" src ="https://i.imgur.com/Bv2Tkfi.png"/>
+<br>
 http://rosalind.info/users/tim_ope/
 Solutions to Project Rosalind Bioinformatics Stronghold problems.
 
