@@ -1,4 +1,4 @@
-# Project-Rosalind
+# Project Rosalind
 Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/problems/list-view/) problems.
 
 [Link to Profile](http://rosalind.info/users/tim_ope/)
