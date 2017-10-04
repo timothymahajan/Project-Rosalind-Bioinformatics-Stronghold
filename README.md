@@ -7,5 +7,5 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 <br>
 
 | Problem  | Nameb| Python | T-SQL |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 | Problem 1  | Counting DNA Nucleotides | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/001_DNA/DNA.py) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/001_DNA/DNA.sql)
