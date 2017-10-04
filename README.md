@@ -22,6 +22,11 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 12  | Overlap Graphs | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/012_GRPH/GRPH.py) |
 | Problem 13  | Calculating Expected Offspring | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/013_IEV/IEV.py) |
 | Problem 14  | Finding a Shared Motif | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/014_LCSM/LCSM.py) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/014_LCSM/LCSM.sql)
-| Problem 15  | Finding a Shared Motif | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/015_LIA/LIA.py) | 
-| Problem 16  | Finding a Shared Motif | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/016_MPRT/MPRT.py) |
-| Problem 17  | Finding a Shared Motif | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/017_MRNA/MRNA.py) |
+| Problem 15  | Independent Alleles | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/015_LIA/LIA.py) | 
+| Problem 16  | Finding a Protein Motif | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/016_MPRT/MPRT.py) |
+| Problem 17  | Inferring mRNA from Protein | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/017_MRNA/MRNA.py) |
+| Problem 19  | Enumerating Gene Orders | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/019_PERM/PERM.py) |
+| Problem 20  | Calculating Protein Mass| [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/020_PRTM/PRTM.py) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/020_PRTM/PRTM.py)
+| Problem 23  | Enumerating k-mers Lexicographically | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/023_LEXF/LEXF.py) |
+| Problem 28  | Introduction to Random Strings | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/028_PROB/PROB.py) |
+| Problem 39  | Introduction to Random Strings | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/039_LEXV/LEXV.py) |
