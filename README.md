@@ -29,4 +29,4 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 20  | Calculating Protein Mass| [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/020_PRTM/PRTM.py) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/020_PRTM/PRTM.py)
 | Problem 23  | Enumerating k-mers Lexicographically | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/023_LEXF/LEXF.py) |
 | Problem 28  | Introduction to Random Strings | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/028_PROB/PROB.py) |
-| Problem 39  | Introduction to Random Strings | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/039_LEXV/LEXV.py) |
+| Problem 39  | Ordering Strings of Varying Length Lexicographically | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/039_LEXV/LEXV.py) |
