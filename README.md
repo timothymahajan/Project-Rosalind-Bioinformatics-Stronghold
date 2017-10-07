@@ -25,8 +25,11 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 15  | Independent Alleles | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/015_LIA/LIA.py) | 
 | Problem 16  | Finding a Protein Motif | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/016_MPRT/MPRT.py) |
 | Problem 17  | Inferring mRNA from Protein | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/017_MRNA/MRNA.py) |
+| Problem 18  | Open Reading Frames |
 | Problem 19  | Enumerating Gene Orders | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/019_PERM/PERM.py) |
 | Problem 20  | Calculating Protein Mass| [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/020_PRTM/PRTM.py) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/020_PRTM/PRTM.py)
+| Problem 21  | Locating Restriction Sites |
+| Problem 22  | RNA Splicing |
 | Problem 23  | Enumerating k-mers Lexicographically | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/023_LEXF/LEXF.py) |
 | Problem 28  | Introduction to Random Strings | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/028_PROB/PROB.py) |
 | Problem 39  | Ordering Strings of Varying Length Lexicographically | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/039_LEXV/LEXV.py) |
