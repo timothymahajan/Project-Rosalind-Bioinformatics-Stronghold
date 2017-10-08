@@ -36,6 +36,7 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 26  | Perfect Matchings and RNA Secondary Structures |
 | Problem 27  | Partial Permutations | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/027_PPER/PPER.py)
 | Problem 28  | Introduction to Random Strings | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/028_PROB/PROB.py) |
+| Problem 30 | Finding a Spliced Motif | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/030_SSEQ/SSEQ.py)
 | Problem 32 | Completing a Tree | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/032_TREE/TREE.py)
 | Problem 39  | Ordering Strings of Varying Length Lexicographically | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/039_LEXV/LEXV.py) |
 | Problem 43 | Matching Random Motifs | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/043_RSTR/RSTR.py)
