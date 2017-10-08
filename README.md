@@ -41,3 +41,4 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 39  | Ordering Strings of Varying Length Lexicographically | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/039_LEXV/LEXV.py) |
 | Problem 43 | Matching Random Motifs | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/043_RSTR/RSTR.py)
 | Problem 44 | Counting Subsets | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/044_SSET/SSET.py)
+| Problem 45 | Introduction to Alternative Splicing | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/045_ASPC/ASPC.py)
