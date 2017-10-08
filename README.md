@@ -25,7 +25,7 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 15  | Independent Alleles | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/015_LIA/LIA.py) | 
 | Problem 16  | Finding a Protein Motif | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/016_MPRT/MPRT.py) |
 | Problem 17  | Inferring mRNA from Protein | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/017_MRNA/MRNA.py) |
-| Problem 18  | Open Reading Frames |
+| Problem 18  | Open Reading Frames | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/018_ORF/ORF.py)
 | Problem 19  | Enumerating Gene Orders | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/019_PERM/PERM.py) |
 | Problem 20  | Calculating Protein Mass| [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/020_PRTM/PRTM.py) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/020_PRTM/PRTM.py)
 | Problem 21  | Locating Restriction Sites | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/021_REVP/REVP.py)
