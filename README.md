@@ -31,7 +31,7 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 21  | Locating Restriction Sites | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/021_REVP/REVP.py)
 | Problem 22  | RNA Splicing | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/022_SPLC/SPLC.py)
 | Problem 23  | Enumerating k-mers Lexicographically | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/023_LEXF/LEXF.py) |
-| Problem 24  | Longest Increasing Subsequence |
+| Problem 24  | Longest Increasing Subsequence | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/024_LGIS/LGIS.py)
 | Problem 25  | Genome Assembly as Shortest Superstring |
 | Problem 26  | Perfect Matchings and RNA Secondary Structures |
 | Problem 27  | Partial Permutations | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/027_PPER/PPER.py)
