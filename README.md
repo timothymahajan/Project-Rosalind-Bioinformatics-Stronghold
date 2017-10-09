@@ -43,4 +43,5 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 43 | Matching Random Motifs | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/043_RSTR/RSTR.py)
 | Problem 44 | Counting Subsets | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/044_SSET/SSET.py)
 | Problem 45 | Introduction to Alternative Splicing | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/045_ASPC/ASPC.py)
+| Problem 47 | Expected Number of Restriction Sites | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/047_EVAL/EVAL.py)
 | Problem 51 | Introduction to Set Operations | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/051_SETO/SETO.py)
