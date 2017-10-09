@@ -33,7 +33,7 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 23  | Enumerating k-mers Lexicographically | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/023_LEXF/LEXF.py) |
 | Problem 24  | Longest Increasing Subsequence | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/024_LGIS/LGIS.py)
 | Problem 25  | Genome Assembly as Shortest Superstring |
-| Problem 26  | Perfect Matchings and RNA Secondary Structures |
+| Problem 26  | Perfect Matchings and RNA Secondary Structures | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/026_PMCH/PMCH.py)
 | Problem 27  | Partial Permutations | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/027_PPER/PPER.py)
 | Problem 28  | Introduction to Random Strings | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/028_PROB/PROB.py) |
 | Problem 29  | Enumerating Oriented Gene Orderings |
