@@ -38,7 +38,7 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 28  | Introduction to Random Strings | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/028_PROB/PROB.py) |
 | Problem 29  | Enumerating Oriented Gene Orderings |
 | Problem 30 | Finding a Spliced Motif | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/030_SSEQ/SSEQ.py)
-| Problem 31 | Transitions and Transversions |
+| Problem 31 | Transitions and Transversions | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/031_TRAN/TRAN.py)
 | Problem 32 | Completing a Tree | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/032_TREE/TREE.py)
 | Problem 33 | Catalan Numbers and RNA Secondary Structures |
 | Problem 34 | Error Correction in Reads |
