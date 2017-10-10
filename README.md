@@ -44,7 +44,7 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 34 | Error Correction in Reads |
 | Problem 35 | Counting Phylogenetic Ancestors | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/035_INDO/INOD.py)
 | Problem 36 | k-Mer Composition |
-| Problem 37 | Speeding Up Motif Finding |
+| Problem 37 | Speeding Up Motif Finding | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/037_KMP/KMP.py)
 | Problem 38 | Finding a Shared Spliced Motif |
 | Problem 39  | Ordering Strings of Varying Length Lexicographically | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/039_LEXV/LEXV.py) |
 | Problem 40 | Maximum Matchings and RNA Secondary Structures |
