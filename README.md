@@ -48,7 +48,7 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 38 | [Finding a Shared Spliced Motif](http://rosalind.info/problems/lcsq/) |
 | Problem 39  | [Ordering Strings of Varying Length Lexicographically](http://rosalind.info/problems/lexv/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/039_LEXV/LEXV.py) |
 | Problem 40 | [Maximum Matchings and RNA Secondary Structures](http://rosalind.info/problems/mmch/) |
-| Problem 41 | [Creating a Distance Matrix](http://rosalind.info/problems/pdst/) |
+| Problem 41 | [Creating a Distance Matrix](http://rosalind.info/problems/pdst/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/041_PDST/PDST.py)
 | Problem 42 | [Reversal Distance](http://rosalind.info/problems/rear/) |
 | Problem 43 | [Matching Random Motifs](http://rosalind.info/problems/rstr/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/043_RSTR/RSTR.py)
 | Problem 44 | [Counting Subsets](http://rosalind.info/problems/sset/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/044_SSET/SSET.py)
