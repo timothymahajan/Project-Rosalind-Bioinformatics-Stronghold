@@ -45,7 +45,7 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 35 | [Counting Phylogenetic Ancestors](http://rosalind.info/problems/inod/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/035_INOD/INOD.py)
 | Problem 36 | [k-Mer Composition](http://rosalind.info/problems/kmer/) |
 | Problem 37 | [Speeding Up Motif Finding](http://rosalind.info/problems/kmp/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/037_KMP/KMP.py)
-| Problem 38 | [Finding a Shared Spliced Motif](http://rosalind.info/problems/lcsq/) |
+| Problem 38 | [Finding a Shared Spliced Motif](http://rosalind.info/problems/lcsq/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/038_LCSQ/LCSQ.py)
 | Problem 39  | [Ordering Strings of Varying Length Lexicographically](http://rosalind.info/problems/lexv/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/039_LEXV/LEXV.py) |
 | Problem 40 | [Maximum Matchings and RNA Secondary Structures](http://rosalind.info/problems/mmch/) |
 | Problem 41 | [Creating a Distance Matrix](http://rosalind.info/problems/pdst/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/041_PDST/PDST.py)
