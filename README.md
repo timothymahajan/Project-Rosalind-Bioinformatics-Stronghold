@@ -41,7 +41,7 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 31 | [Transitions and Transversions](http://rosalind.info/problems/tran/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/031_TRAN/TRAN.py)
 | Problem 32 | [Completing a Tree](http://rosalind.info/problems/tree/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/032_TREE/TREE.py)
 | Problem 33 | [Catalan Numbers and RNA Secondary Structures](http://rosalind.info/problems/cat/) |
-| Problem 34 | [Error Correction in Reads](http://rosalind.info/problems/corr/) |
+| Problem 34 | [Error Correction in Reads](http://rosalind.info/problems/corr/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/034_CORR/CORR.py)
 | Problem 35 | [Counting Phylogenetic Ancestors](http://rosalind.info/problems/inod/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/035_INOD/INOD.py)
 | Problem 36 | [k-Mer Composition](http://rosalind.info/problems/kmer/) |
 | Problem 37 | [Speeding Up Motif Finding](http://rosalind.info/problems/kmp/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/037_KMP/KMP.py)
