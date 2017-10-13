@@ -32,7 +32,7 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 22  | [RNA Splicing](http://rosalind.info/problems/splc/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/022_SPLC/SPLC.py)
 | Problem 23  | [Enumerating k-mers Lexicographically](http://rosalind.info/problems/lexf/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/023_LEXF/LEXF.py) |
 | Problem 24  | [Longest Increasing Subsequence](http://rosalind.info/problems/lgis/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/024_LGIS/LGIS.py)
-| Problem 25  | [Genome Assembly as Shortest Superstring](http://rosalind.info/problems/long/) |
+| Problem 25  | [Genome Assembly as Shortest Superstring](http://rosalind.info/problems/long/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/025_LONG/LONG.py)
 | Problem 26  | [Perfect Matchings and RNA Secondary Structures](http://rosalind.info/problems/pmch/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/026_PMCH/PMCH.py)
 | Problem 27  | [Partial Permutations](http://rosalind.info/problems/pper/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/027_PPER/PPER.py)
 | Problem 28  | [Introduction to Random Strings](http://rosalind.info/problems/prob/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/028_PROB/PROB.py) |
