@@ -27,7 +27,7 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 17  | [Inferring mRNA from Protein](http://rosalind.info/problems/mrna/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/017_MRNA/MRNA.py) |
 | Problem 18  | [Open Reading Frames](http://rosalind.info/problems/orf/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/018_ORF/ORF.py)
 | Problem 19  | [Enumerating Gene Orders](http://rosalind.info/problems/perm/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/019_PERM/PERM.py) |
-| Problem 20  | [Calculating Protein Mass](http://rosalind.info/problems/prtm/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/020_PRTM/PRTM.py) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/020_PRTM/PRTM.py)
+| Problem 20  | [Calculating Protein Mass](http://rosalind.info/problems/prtm/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/020_PRTM/PRTM.py) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/020_PRTM/PRTM.sql)
 | Problem 21  | [Locating Restriction Sites](http://rosalind.info/problems/revp/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/021_REVP/REVP.py)
 | Problem 22  | [RNA Splicing](http://rosalind.info/problems/splc/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/022_SPLC/SPLC.py)
 | Problem 23  | [Enumerating k-mers Lexicographically](http://rosalind.info/problems/lexf/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/023_LEXF/LEXF.py) |
