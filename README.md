@@ -43,7 +43,7 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 33 | [Catalan Numbers and RNA Secondary Structures](http://rosalind.info/problems/cat/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/033_CAT/CAT.py)
 | Problem 34 | [Error Correction in Reads](http://rosalind.info/problems/corr/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/034_CORR/CORR.py)
 | Problem 35 | [Counting Phylogenetic Ancestors](http://rosalind.info/problems/inod/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/035_INOD/INOD.py)
-| Problem 36 | [k-Mer Composition](http://rosalind.info/problems/kmer/) |
+| Problem 36 | [k-Mer Composition](http://rosalind.info/problems/kmer/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/036_KMER/KMER.py)
 | Problem 37 | [Speeding Up Motif Finding](http://rosalind.info/problems/kmp/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/037_KMP/KMP.py)
 | Problem 38 | [Finding a Shared Spliced Motif](http://rosalind.info/problems/lcsq/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/038_LCSQ/LCSQ.py)
 | Problem 39  | [Ordering Strings of Varying Length Lexicographically](http://rosalind.info/problems/lexv/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/039_LEXV/LEXV.py) |
