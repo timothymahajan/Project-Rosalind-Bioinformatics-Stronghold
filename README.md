@@ -67,4 +67,4 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 57 | [Constructing a De Bruijn Graph](http://rosalind.info/problems/dbru/) |
 | Problem 58 | [Edit Distance Alignment](http://rosalind.info/problems/edta/) |
 | Problem 59 | [Inferring Peptide from Full Spectrum](http://rosalind.info/problems/full/) |
-| Problem 60 | [Independent Segregation of Chromosomes](http://rosalind.info/problems/indc/) |
+| Problem 60 | [Independent Segregation of Chromosomes](http://rosalind.info/problems/indc/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/060_INDC/INDC.py)
