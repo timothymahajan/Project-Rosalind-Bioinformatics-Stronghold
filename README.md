@@ -60,7 +60,7 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 50 | 	[Interleaving Two Motifs](http://rosalind.info/problems/scsp/)|
 | Problem 51 | [Introduction to Set Operations](http://rosalind.info/problems/seto/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/051_SETO/SETO.py)
 | Problem 52 | [Sorting by Reversals](http://rosalind.info/problems/sort/) |
-| Problem 53 | [Inferring Protein from Spectrum](http://rosalind.info/problems/spec/) |
+| Problem 53 | [Inferring Protein from Spectrum](http://rosalind.info/problems/spec/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/053_SPEC/SPEC.py)
 | Problem 54 | [Introduction to Pattern Matching](http://rosalind.info/problems/trie/) |
 | Problem 55 | [Comparing Spectra with the Spectral Convolution](http://rosalind.info/problems/conv/) |
 | Problem 56 | [Creating a Character Table](http://rosalind.info/problems/ctbl/) |
