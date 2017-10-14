@@ -59,3 +59,12 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 49 | [Distances in Trees](http://rosalind.info/problems/nwck/) |
 | Problem 50 | 	[Interleaving Two Motifs](http://rosalind.info/problems/scsp/)|
 | Problem 51 | [Introduction to Set Operations](http://rosalind.info/problems/seto/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/051_SETO/SETO.py)
+| Problem 52 | [Sorting by Reversals](http://rosalind.info/problems/sort/) |
+| Problem 53 | [Inferring Protein from Spectrum](http://rosalind.info/problems/spec/) |
+| Problem 54 | [Introduction to Pattern Matching](http://rosalind.info/problems/trie/) |
+| Problem 55 | [Comparing Spectra with the Spectral Convolution](http://rosalind.info/problems/conv/) |
+| Problem 56 | [Creating a Character Table](http://rosalind.info/problems/ctbl/) |
+| Problem 57 | [Constructing a De Bruijn Graph](http://rosalind.info/problems/dbru/) |
+| Problem 58 | [Edit Distance Alignment](http://rosalind.info/problems/edta/) |
+| Problem 59 | [Inferring Peptide from Full Spectrum](http://rosalind.info/problems/full/) |
+| Problem 60 | [Independent Segregation of Chromosomes](http://rosalind.info/problems/indc/) |
