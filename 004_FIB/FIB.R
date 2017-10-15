@@ -1,6 +1,6 @@
 
 
-fibonacci <- function(a1=1,a2=1,t,k=1) {
+fibonacci <- function(a1 = 1, a2 = 1, t, k = 1) {
   vec<-vector()
   vec[1]<-a1
   vec[2]<-a2
