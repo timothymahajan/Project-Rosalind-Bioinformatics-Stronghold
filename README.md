@@ -5,6 +5,7 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 <br>
 <img height = "175" src ="https://i.imgur.com/Bv2Tkfi.png"/>
 <br>
+
 | Language | Number of Solutions |
 | ------------- | ------------- |
 | Python | 48 |
