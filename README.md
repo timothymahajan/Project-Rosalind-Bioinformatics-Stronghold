@@ -5,6 +5,12 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 <br>
 <img height = "175" src ="https://i.imgur.com/Bv2Tkfi.png"/>
 <br>
+| Language | Number of Solutions |
+| ------------- | ------------- |
+| Python | 48 |
+| T-SQL | 11 |
+| R | 4 |
+| C# | 3 |
 
 | Problem  | Name | Python | T-SQL | R | C# |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
