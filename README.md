@@ -8,7 +8,7 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 
 | Language | Number of Solutions |
 | ------------- | ------------- |
-| Python | 48 |
+| Python | 49 |
 | T-SQL | 11 |
 | R | 4 |
 | C# | 3 |
