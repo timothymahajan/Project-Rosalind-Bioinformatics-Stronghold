@@ -60,7 +60,7 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 43 | [Matching Random Motifs](http://rosalind.info/problems/rstr/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/043_RSTR/RSTR.py)
 | Problem 44 | [Counting Subsets](http://rosalind.info/problems/sset/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/044_SSET/SSET.py)
 | Problem 45 | [Introduction to Alternative Splicing](http://rosalind.info/problems/aspc/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/045_ASPC/ASPC.py)
-| Problem 46 | [Edit Distance](http://rosalind.info/problems/edit/) |
+| Problem 46 | [Edit Distance](http://rosalind.info/problems/edit/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/046_EDIT/EDIT.py)
 | Problem 47 | [Expected Number of Restriction Sites](http://rosalind.info/problems/eval/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/047_EVAL/EVAL.py)
 | Problem 48 | [Motzkin Numbers and RNA Secondary Structures](http://rosalind.info/problems/motz/) |
 | Problem 49 | [Distances in Trees](http://rosalind.info/problems/nwck/) |
