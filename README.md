@@ -76,3 +76,4 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 59 | [Inferring Peptide from Full Spectrum](http://rosalind.info/problems/full/) |
 | Problem 60 | [Independent Segregation of Chromosomes](http://rosalind.info/problems/indc/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/060_INDC/INDC.py)
 | Problem 65 | [Counting Disease Carriers](http://rosalind.info/problems/afrq/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/065_AFRQ/AFRQ.py)
+| Problem 85 | [Sex-Linked Inheritance](http://rosalind.info/problems/sexl/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/065_AFRQ/AFRQ.py)
