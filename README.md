@@ -26,7 +26,7 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 9  | [Finding a Motif in DNA](http://rosalind.info/problems/subs/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/009_SUBS/SUBS.py) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/009_SUBS/SUBS.sql)
 | Problem 10  | [Consensus and Profile](http://rosalind.info/problems/cons/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/010_CONS/CONS.py) | 
 | Problem 11  | [Mortal Fibonacci Rabbits](http://rosalind.info/problems/fibd/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/011_FIBD/FIBD.py) | 
-| Problem 12  | [Overlap Graphs](http://rosalind.info/problems/grph/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/012_GRPH/GRPH.py) |
+| Problem 12  | [Overlap Graphs](http://rosalind.info/problems/grph/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/012_GRPH/GRPH.py) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/012_GRPH/GRPH.sql)
 | Problem 13  | [Calculating Expected Offspring](http://rosalind.info/problems/iev/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/013_IEV/IEV.py) |
 | Problem 14  | [Finding a Shared Motif](http://rosalind.info/problems/lcsm/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/014_LCSM/LCSM.py) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/014_LCSM/LCSM.sql)
 | Problem 15  | [Independent Alleles](http://rosalind.info/problems/lia/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/015_LIA/LIA.py) | 
