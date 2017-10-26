@@ -8,7 +8,7 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 
 | Language | Number of Solutions |
 | ------------- | ------------- |
-| Python | 52 |
+| Python | 53 |
 | T-SQL | 12 |
 | R | 4 |
 | C# | 3 |
@@ -78,3 +78,4 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 65 | [Counting Disease Carriers](http://rosalind.info/problems/afrq/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/065_AFRQ/AFRQ.py)
 | Problem 85 | [Sex-Linked Inheritance](http://rosalind.info/problems/sexl/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/085_SEXL/SEXL.py)
 | Problem 87 | [The Wright-Fisher Model of Genetic Drift](http://rosalind.info/problems/wfmd/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/087_WFMD/WFMD.py)
+| Problem 91 | [Wright-Fisher's Expected Behavior](http://rosalind.info/problems/ebin/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/091_EBIN/EBIN.py)
