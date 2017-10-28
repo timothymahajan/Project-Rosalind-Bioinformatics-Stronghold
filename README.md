@@ -8,7 +8,7 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 
 | Language | Number of Solutions |
 | ------------- | ------------- |
-| Python | 53 |
+| Python | 54 |
 | T-SQL | 12 |
 | R | 4 |
 | C# | 3 |
@@ -62,7 +62,7 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 45 | [Introduction to Alternative Splicing](http://rosalind.info/problems/aspc/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/045_ASPC/ASPC.py)
 | Problem 46 | [Edit Distance](http://rosalind.info/problems/edit/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/046_EDIT/EDIT.py)
 | Problem 47 | [Expected Number of Restriction Sites](http://rosalind.info/problems/eval/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/047_EVAL/EVAL.py)
-| Problem 48 | [Motzkin Numbers and RNA Secondary Structures](http://rosalind.info/problems/motz/) |
+| Problem 48 | [Motzkin Numbers and RNA Secondary Structures](http://rosalind.info/problems/motz/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/048_MOTZ/MOTZ.py)
 | Problem 49 | [Distances in Trees](http://rosalind.info/problems/nwck/) |
 | Problem 50 | 	[Interleaving Two Motifs](http://rosalind.info/problems/scsp/)|
 | Problem 51 | [Introduction to Set Operations](http://rosalind.info/problems/seto/) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/051_SETO/SETO.py)
