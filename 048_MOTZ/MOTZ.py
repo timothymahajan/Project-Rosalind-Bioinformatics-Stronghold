@@ -1,4 +1,4 @@
-#Problem 48: 
+#Problem 48: Motzkin Numbers and RNA Secondary Structures
 #Given: An RNA string s of length at most 300 bp.
 #Return: The total number of noncrossing matchings of basepair edges in the bonding graph of s, modulo 1,000,000.
 
@@ -24,8 +24,5 @@ def motz(mat):
                 s[mat] = s[mat] + motz(mat[1:i]) * motz(mat[i+1:])
     
     return s[mat]
-    
-    
-
         
 print(motz(mat) % 1000000)
