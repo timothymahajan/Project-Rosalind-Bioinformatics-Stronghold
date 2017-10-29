@@ -10,7 +10,7 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | ------------- | ------------- |
 | Python | 54 |
 | T-SQL | 12 |
-| R | 4 |
+| R | 5 |
 | C# | 3 |
 
 | Problem  | Name | Python | T-SQL | R | C# |
@@ -19,7 +19,7 @@ Solutions to [Project Rosalind Bioinformatics Stronghold](http://rosalind.info/p
 | Problem 2  | [Transcribing DNA into RNA](http://rosalind.info/problems/rna/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/002_RNA/RNA.py) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/002_RNA/RNA.sql) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/002_RNA/RNA.R) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/002_RNA/RNA.cs)
 | Problem 3  | [Complementing a Strand of DNA](http://rosalind.info/problems/revc/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/003_REVC/REVC.py) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/003_REVC/REVC.sql) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/003_REVC/REVC.R)|[Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/003_REVC/REVC.cs)
 | Problem 4  | [Rabbits and Recurrence Relations](http://rosalind.info/problems/fib/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/004_FIB/FIB.py) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/004_FIB/FIB.sql) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/004_FIB/FIB.R)
-| Problem 5  | [Computing GC Content](http://rosalind.info/problems/gc/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/005_GC/GC.py) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/005_GC/GC.sql)
+| Problem 5  | [Computing GC Content](http://rosalind.info/problems/gc/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/005_GC/GC.py) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/005_GC/GC.sql) | [Solution](https://github.com/timothymahajan/Project-Rosalind-Bioinformatics-Stronghold/blob/master/005_GC/GC.R)
 | Problem 6  | [Counting Point Mutations](http://rosalind.info/problems/hamm/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/006_HAMM/HAMM.py) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/006_HAMM/HAMM.sql)
 | Problem 7  | [Mendel's First Law](http://rosalind.info/problems/iprb/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/007_IPRB/IPRB.py) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/007_IPRB/IPRB.sql)
 | Problem 8  | [Translating RNA into Protein](http://rosalind.info/problems/prot/) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/008_PROT/PROT.py) | [Solution](https://github.com/timothymahajan/Project-Rosalind/blob/master/008_PROT/PROT.sql)
